@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "8cUwLBIPWiJvFA5NRV8TexTmi1z8EXQcBV/794crJuhx9+nAgArnx23SBSd7PY2UarWmRscH9J+6GpGRzMUuTA==",
+  "dgSpecHash": "QFashpC1JdMyQTt5+MzI0n6Tx0oADCndgQVSK6J7NA9Pt0wvWnMhBSKdRYFv9G5lNmYgH2U8FxqALJsCccYj0A==",
   "success": true,
-  "projectFilePath": "D:\\TriCubes\\Testing\\WorkSmart-AutoTesting\\WorkSmart+\\WorkSmart+.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\TriCubes\\Testing\\WorkSmart-AutomationTesting\\WorkSmart+\\WorkSmart+.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\60116\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\60116\\.nuget\\packages\\selenium.webdriver\\4.8.1\\selenium.webdriver.4.8.1.nupkg.sha512"
+  ],
   "logs": []
 }
