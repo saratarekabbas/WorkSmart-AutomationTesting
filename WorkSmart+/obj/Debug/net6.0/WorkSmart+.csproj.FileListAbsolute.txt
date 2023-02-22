@@ -1,0 +1,15 @@
+D:\TriCubes\Testing\WorkSmart-AutoTesting\WorkSmart+\bin\Debug\net6.0\WorkSmart+.exe
+D:\TriCubes\Testing\WorkSmart-AutoTesting\WorkSmart+\bin\Debug\net6.0\WorkSmart+.deps.json
+D:\TriCubes\Testing\WorkSmart-AutoTesting\WorkSmart+\bin\Debug\net6.0\WorkSmart+.runtimeconfig.json
+D:\TriCubes\Testing\WorkSmart-AutoTesting\WorkSmart+\bin\Debug\net6.0\WorkSmart+.dll
+D:\TriCubes\Testing\WorkSmart-AutoTesting\WorkSmart+\bin\Debug\net6.0\WorkSmart+.pdb
+D:\TriCubes\Testing\WorkSmart-AutoTesting\WorkSmart+\obj\Debug\net6.0\WorkSmart+.csproj.AssemblyReference.cache
+D:\TriCubes\Testing\WorkSmart-AutoTesting\WorkSmart+\obj\Debug\net6.0\WorkSmart+.GeneratedMSBuildEditorConfig.editorconfig
+D:\TriCubes\Testing\WorkSmart-AutoTesting\WorkSmart+\obj\Debug\net6.0\WorkSmart+.AssemblyInfoInputs.cache
+D:\TriCubes\Testing\WorkSmart-AutoTesting\WorkSmart+\obj\Debug\net6.0\WorkSmart+.AssemblyInfo.cs
+D:\TriCubes\Testing\WorkSmart-AutoTesting\WorkSmart+\obj\Debug\net6.0\WorkSmart+.csproj.CoreCompileInputs.cache
+D:\TriCubes\Testing\WorkSmart-AutoTesting\WorkSmart+\obj\Debug\net6.0\WorkSmart+.dll
+D:\TriCubes\Testing\WorkSmart-AutoTesting\WorkSmart+\obj\Debug\net6.0\refint\WorkSmart+.dll
+D:\TriCubes\Testing\WorkSmart-AutoTesting\WorkSmart+\obj\Debug\net6.0\WorkSmart+.pdb
+D:\TriCubes\Testing\WorkSmart-AutoTesting\WorkSmart+\obj\Debug\net6.0\WorkSmart+.genruntimeconfig.cache
+D:\TriCubes\Testing\WorkSmart-AutoTesting\WorkSmart+\obj\Debug\net6.0\ref\WorkSmart+.dll
