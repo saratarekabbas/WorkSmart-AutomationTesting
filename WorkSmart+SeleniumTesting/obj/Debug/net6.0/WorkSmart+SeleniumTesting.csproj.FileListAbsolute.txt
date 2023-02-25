@@ -102,3 +102,6 @@ D:\TriCubes\Testing\WorkSmart-AutomationTesting\WorkSmart+SeleniumTesting\obj\De
 D:\TriCubes\Testing\WorkSmart-AutomationTesting\WorkSmart+SeleniumTesting\obj\Debug\net6.0\WorkSmart+SeleniumTesting.pdb
 D:\TriCubes\Testing\WorkSmart-AutomationTesting\WorkSmart+SeleniumTesting\obj\Debug\net6.0\WorkSmart+SeleniumTesting.genruntimeconfig.cache
 D:\TriCubes\Testing\WorkSmart-AutomationTesting\WorkSmart+SeleniumTesting\obj\Debug\net6.0\ref\WorkSmart+SeleniumTesting.dll
+D:\TriCubes\Testing\WorkSmart-AutomationTesting\WorkSmart+SeleniumTesting\bin\Debug\net6.0\AngleSharp.dll
+D:\TriCubes\Testing\WorkSmart-AutomationTesting\WorkSmart+SeleniumTesting\bin\Debug\net6.0\ICSharpCode.SharpZipLib.dll
+D:\TriCubes\Testing\WorkSmart-AutomationTesting\WorkSmart+SeleniumTesting\bin\Debug\net6.0\WebDriverManager.dll
